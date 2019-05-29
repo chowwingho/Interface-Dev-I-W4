@@ -1,0 +1,11 @@
+.dead {
+  font-size: 0.5em;
+  color: red;
+  vertical-align: middle;
+}
+
+.alive {
+  font-size: 0.5em;
+  color: green;
+  vertical-align: middle;
+}
